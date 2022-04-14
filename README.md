@@ -1,5 +1,5 @@
 # Tic Tac Toe
-This game propably knows everybody😊. <br>
+This game probably knows everybody😊. <br>
 Here I attach link to Wikipedia page with game rules, just in case: https://en.wikipedia.org/wiki/Tic-tac-toe#Gameplay
 
 ## Technologies used
