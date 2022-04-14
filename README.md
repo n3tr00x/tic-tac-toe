@@ -7,7 +7,7 @@ Project is created with:
 - HTML 5
 - JavaScript ES8
 - SCSS
-I also use the icon library - **FontAwesome** and **Google Fonts**.
+- I also use the icon library - **FontAwesome** and **Google Fonts**.
 
 ## How to run it?
 You can click here: https://n3tr00x.github.io/tic-tac-toe/, use **git clone** or just **download it**.
